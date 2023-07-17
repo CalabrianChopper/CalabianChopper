@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CalabianChopper (Ing. Francesco Chiodo)
-- 👀 I’m interested in Building new AI project and white hat hack
-- 🌱 I’m currently learning The best way of using python
-- 💞️ I’m looking to collaborate on building new interesting project, especially in bioinformatics and cyber security
+- 👀 I’m interested in building new AI project, FS web dev and PYTHON
+- 🌱 I’m currently learning the best way of using python
+- 💞️ I’m looking to collaborate on building new interesting project, especially in bioinformatics and graph theory
 - 📫 How to reach me 3273316997 francesco.chiodo.op@gmail.com
 
 <!---
